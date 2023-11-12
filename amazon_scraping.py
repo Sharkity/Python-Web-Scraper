@@ -25,4 +25,3 @@ for _ in range(retries):
 
     print(f"Retrying... Attempt {retries - _} left.")
 
-print("repository")
