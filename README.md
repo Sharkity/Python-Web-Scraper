@@ -1,1 +1,1 @@
-This is test READ ME file
+Simple webscraper script
